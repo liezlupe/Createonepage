@@ -1,0 +1,78 @@
+
+.navbar, .navbar-expand-md .navbar-dark .fixed-top .bg-primary .sticky-navigation {
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+}
+.card-body-banks {
+    -ms-flex:1 1 auto;
+    flex:1 1 auto;
+    text-align:middle;
+    background-color: #d7d3d3;
+ }
+ 
+.bg-dark-banks {
+    background-color:#d7d3d3!important;
+}
+.bg-grey{
+    background-color:#f7f7f7!important;
+}
+.card-body-reload {
+	background-color:#f7f7f7!important;
+} 
+.img-banks{
+    vertical-align: middle;
+    border-style: none;
+    width: 81px;
+}
+.img-logo {
+    width:53px; 
+    height:60px;
+}
+.mt-primary{
+	margin-top: 1.5rem!important;
+	color: white;
+}	
+.text-primary-up{
+	color: white;
+}
+
+//==========================Responsive======================================//
+
+@media only screen and (max-width: 600px) {
+   
+    .img-fluid {
+    width:600px;
+    height:400px;
+	}
+}
+.media {
+    width: auto;
+}
+.media-body {
+    width: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
