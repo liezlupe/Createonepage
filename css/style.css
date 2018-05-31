@@ -51,7 +51,9 @@
     width: auto;
 }
 
-
+.bg-dark-footer {
+    background-color:#ddd;
+}
 
 
 

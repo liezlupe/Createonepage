@@ -5,22 +5,76 @@
 .card-body-banks {
     -ms-flex:1 1 auto;
     flex:1 1 auto;
-    padding: 10px 168px 20px;
-    text-align:left;
+    text-align:middle;
     background-color: #d7d3d3;
  }
  
 .bg-dark-banks {
     background-color:#d7d3d3!important;
- }
- 
- .img-banks{
+}
+.bg-grey{
+    background-color:#f7f7f7!important;
+}
+.card-body-reload {
+	background-color:#f7f7f7!important;
+} 
+.img-banks{
     vertical-align: middle;
     border-style: none;
-    width: 89px;
+    width: 81px;
 }
- .img-logo {
+.img-logo {
     width:53px; 
     height:60px;
-
 }
+.mt-primary{
+	margin-top: 1.5rem!important;
+	color: white;
+}	
+.text-primary-up{
+	color: white;
+}
+
+//==========================Responsive======================================//
+
+@media only screen and (max-width: 600px) {
+   
+    .img-fluid {
+    width:600px;
+    height:400px;
+	}
+}
+.media {
+    width: auto;
+}
+.media-body {
+    width: auto;
+}
+
+.bg-dark-footer {
+    background-color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
